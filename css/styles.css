@@ -14,8 +14,14 @@ body {
     line height: 1em;
 }
 .shop {
+    font-size: 25px;
     color: coral;
 }
+.gallery {
+  font-size: 25px;
+  color: coral;
+}
+
 a {
   -webkit-transition: color 170ms ease-in-out,
     background-color 170ms ease-in-out;
