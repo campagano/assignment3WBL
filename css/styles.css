@@ -13,9 +13,9 @@ body {
 
 .centered {
     padding: 10px 10px 10px 10px;
-    border: 2px solid;
-    margin: 0 auto 0 auto;
-    width: 20%;
+    border: 1px solid;
+    margin: 5px 5px;
+    width: 30%;
 
     /* margin-left: 20px;
     margin-right: 20px;
@@ -52,6 +52,7 @@ nav {
     margin-bottom: 31px;
 }
 .flex-right {
+    flex-direction: row;
     flex:1;
     justify-content: flex-end;
     align-items: center;
